@@ -1,0 +1,28 @@
+/**
+ * @param {string} moves
+ * @return {boolean}
+ */
+var judgeCircle = function(moves) {
+  let x=0
+  let y=0
+for(let char of moves){
+    if(char=== "R"){
+        x+=1
+    }else if(char === "L"){
+        x=x-1
+    }else if(char === "U"){
+        y+=1
+    }else if(char === "D"){
+        y=y-1
+    }
+}
+
+if(x===0 && y===0){
+    return true
+}else{
+    return false
+}
+
+};
+
+judgeCircle("UD")
