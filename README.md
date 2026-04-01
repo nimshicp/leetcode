@@ -25,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/nimshicp/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/nimshicp/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/nimshicp/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
