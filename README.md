@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/nimshicp/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1929-concatenation-of-array](https://github.com/nimshicp/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimshicp/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2706-buy-two-chocolates](https://github.com/nimshicp/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/nimshicp/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/nimshicp/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/nimshicp/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/nimshicp/leetcode/tree/master/0520-detect-capital) |
@@ -61,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/nimshicp/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/nimshicp/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/nimshicp/leetcode/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
