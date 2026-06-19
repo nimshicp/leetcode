@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/nimshicp/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimshicp/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2706-buy-two-chocolates](https://github.com/nimshicp/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/nimshicp/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/nimshicp/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [2956-find-common-elements-between-two-arrays](https://github.com/nimshicp/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
