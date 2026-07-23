@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nimshicp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/nimshicp/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/nimshicp/leetcode/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/nimshicp/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nimshicp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nimshicp/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/nimshicp/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
