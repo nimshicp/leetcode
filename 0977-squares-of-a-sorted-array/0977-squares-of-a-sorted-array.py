@@ -1,14 +1,21 @@
-
-
-
 class Solution(object):
     def sortedSquares(self, nums):
-        result=[]
-        for i in nums:
-            result.append(i*i)
-        return sorted(result)   
-            
-        
-        
-s=Solution()
-print(s.sortedSquares([-7,-3,2,3,11]))
+        n = len(nums)
+        result = [0] * n
+        left = 0
+        right = n - 1
+        pos = n - 1
+
+        while left <= right:
+            if abs(nums[left]) > abs(nums[right]):
+                result[pos] = nums[left] * nums[left]
+                left += 1
+            else:
+                result[pos] = nums[right] * nums[right]
+                right -= 1
+            pos -= 1
+
+        return result
+
+s = Solution()
+print(s.sortedSquares([-7, -3, 2, 3, 11]))
