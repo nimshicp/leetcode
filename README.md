@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nimshicp/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nimshicp/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nimshicp/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nimshicp/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nimshicp/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nimshicp/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimshicp/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nimshicp/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/nimshicp/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nimshicp/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nimshicp/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nimshicp/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nimshicp/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nimshicp/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
