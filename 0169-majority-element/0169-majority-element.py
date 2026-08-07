@@ -1,14 +1,19 @@
 class Solution(object):
     def majorityElement(self, nums):
-        d={}
-        n=len(nums)//2
-        for i in nums:
-            if i in d:
-                d[i]+=1
+        candidate = None
+        count = 0
+
+        for num in nums:
+            if count == 0:
+                candidate = num
+
+            if num == candidate:
+                count += 1
             else:
-                d[i]=1
-        for k,v in d.items():
-            if v >n:
-                return k
-s=Solution()
-print(s.majorityElement([2,2,3,3,3,2,3]))
+                count -= 1
+
+        return candidate
+
+
+s = Solution()
+print(s.majorityElement([2, 2, 3, 3, 3, 2, 3]))
