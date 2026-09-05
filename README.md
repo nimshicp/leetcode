@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nimshicp/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nimshicp/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0258-add-digits](https://github.com/nimshicp/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nimshicp/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nimshicp/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/nimshicp/leetcode/tree/master/2235-add-two-integers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nimshicp/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nimshicp/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nimshicp/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## String
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nimshicp/leetcode/tree/main/0169-majority-element/) | Easy |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nimshicp/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
