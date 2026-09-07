@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nimshicp/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/nimshicp/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/nimshicp/leetcode/tree/master/0520-detect-capital) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nimshicp/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nimshicp/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/nimshicp/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nimshicp/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nimshicp/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nimshicp/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
