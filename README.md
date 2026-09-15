@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nimshicp/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimshicp/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2706-buy-two-chocolates](https://github.com/nimshicp/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/nimshicp/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nimshicp/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
