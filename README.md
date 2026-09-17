@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nimshicp/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nimshicp/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nimshicp/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/nimshicp/leetcode/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
