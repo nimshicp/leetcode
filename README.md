@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/nimshicp/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nimshicp/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/nimshicp/leetcode/tree/main/2652-sum-multiples/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/nimshicp/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nimshicp/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Array
 | Problem Name | Difficulty |
