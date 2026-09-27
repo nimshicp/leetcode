@@ -1,0 +1,14 @@
+class Solution(object):
+    def arraySign(self, nums):
+      mul=1 
+      for i in nums:
+        mul=mul*i
+      if mul>0:
+        return 1
+      elif mul== 0:
+        return 0
+      else:
+        return -1
+s=Solution()
+print(s.arraySign([-1,1,-1,1,-1]))
+          
