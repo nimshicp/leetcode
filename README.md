@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimshicp/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nimshicp/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nimshicp/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/nimshicp/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nimshicp/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nimshicp/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nimshicp/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -185,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimshicp/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/nimshicp/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
