@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nimshicp/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nimshicp/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nimshicp/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0682-baseball-game](https://github.com/nimshicp/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nimshicp/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nimshicp/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nimshicp/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0258-add-digits](https://github.com/nimshicp/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nimshicp/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0682-baseball-game](https://github.com/nimshicp/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nimshicp/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nimshicp/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0682-baseball-game](https://github.com/nimshicp/leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
